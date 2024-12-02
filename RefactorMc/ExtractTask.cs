@@ -2,6 +2,7 @@
 
 
 //shift-r: extract P1 & P2, then pullup P3
+//shift-r copy class
 public class ExtractTask 
 {
     public string Property1 { get; set; } //TreatWarningsAsErrors

@@ -5,6 +5,8 @@ public class GeneralTask
     private int PrivateNumber; //code style settings
     
     //alt-f12 for warn and errors
+    //ctrl +m +o
+    //ctrl-f12
     
     
     //alt+ins or .ctor
